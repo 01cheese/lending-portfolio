@@ -1,5 +1,7 @@
 # Lending Portfolio
 
+![image](https://github.com/01cheese/lending-portfolio/assets/115219323/d013a377-0754-4d0c-b7ba-05695f486915)
+
 ## Project Overview
 
 This project is a lending portfolio website designed to showcase the professional experience, projects, and contact information of an individual. The portfolio includes multiple sections: Profile, About, Experience, Projects, and Contact. It is built using HTML, CSS, and JavaScript, with a responsive design that adjusts to various screen sizes.
